@@ -1,0 +1,6 @@
+name: BanNetwork
+version: '${project.version}'
+main: com.site999.bannetwork.Bukkit.BanNetworkSpigot
+authors: [la_patate_chaude]
+description: Systeme de ban en commun avec enormement de serveur
+commands:
