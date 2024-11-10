@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # User-specific stuff
 .idea/
 
@@ -8,6 +10,7 @@
 # IntelliJ
 out/
 
+>>>>>>> 3cf1a29 (.)
 # Compiled class file
 *.class
 
@@ -17,6 +20,12 @@ out/
 # BlueJ files
 *.ctxt
 
+<<<<<<< HEAD
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+=======
+>>>>>>> 3cf1a29 (.)
 # Package Files #
 *.jar
 *.war
@@ -28,6 +37,9 @@ out/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
+replay_pid*
+=======
 
 *~
 
