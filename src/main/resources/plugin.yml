@@ -4,3 +4,6 @@ main: com.site999.bannetwork.Bukkit.BanNetworkSpigot
 authors: [la_patate_chaude]
 description: Systeme de ban en commun avec enormement de serveur
 commands:
+  net:
+    description: Envoyer un message à un joueur
+    usage: /net <joueur> <message>
